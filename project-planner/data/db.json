@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "kuku",
+      "details": "luku",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "moshe",
+      "details": "asdadd",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "sdas",
+      "details": "scfsfasfdf",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
